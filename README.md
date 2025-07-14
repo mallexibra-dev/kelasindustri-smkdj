@@ -1,24 +1,37 @@
 # Materi Kelas Industri SMKN 8 Jember RPL
 
 Selamat datang di repository **Materi Kelas Industri SMKN 8 Jember RPL**.  
-Repository ini berisi materi pembelajaran yang terbagi dalam beberapa pertemuan.  
-Setiap pertemuan memiliki branch masing-masing agar materi tetap terstruktur.
+Repository ini berisi materi pembelajaran yang terbagi dalam beberapa folder per pertemuan.  
+Setiap folder berisi file-file materi yang terstruktur sesuai topik pembelajaran.
 
 ---
 
 ## Daftar Folder & Isi Materi
 
-### Folder: `pertemuan-1`
+<details>
+  <summary><strong>📁 Folder: pertemuan-1 — Materi: HTML Dasar</strong></summary>
 
-**Materi: HTML Dasar**
+  - `index.html`
+  - `heading.html`
+  - `hyperlink.html`
+  - `image.html`
+  - `list.html`
+  - `paragraf.html`
+  - `foto.jpg`
 
-- `index.html`
-- `heading.html`
-- `hyperlink.html`
-- `image.html`
-- `list.html`
-- `paragraf.html`
-- `foto.jpg`
+</details>
+
+<details>
+  <summary><strong>📁 Folder: pertemuan-2 — Materi: HTML Lanjutan</strong></summary>
+
+  - `form.html`
+  - `multimedia.html`
+  - `semantic.html`
+  - `table.html`
+  - `audio.mp3`
+  - `video.mp4`
+
+</details>
 
 ---
 
@@ -28,11 +41,12 @@ Setiap pertemuan memiliki branch masing-masing agar materi tetap terstruktur.
     ```bash
     git clone https://github.com/username/nama-repo.git
     ```
-2. Checkout ke branch pertemuan yang diinginkan, misalnya:
+2. Buka folder sesuai pertemuan:
     ```bash
-    git checkout pertemuan-1
+    cd nama-repo/pertemuan-1
     ```
-3. Buka file materi di folder yang tersedia.
+
+3. Buka file HTML/CSS menggunakan code editor (seperti VS Code) atau browser.
 
 ---
 
