@@ -6,13 +6,19 @@ Setiap pertemuan memiliki branch masing-masing agar materi tetap terstruktur.
 
 ---
 
-## Daftar Branch & Isi Materi
+## Daftar Folder & Isi Materi
 
-### Branch: `pertemuan-1`
+### Folder: `pertemuan-1`
 
 **Materi: HTML Dasar**
 
 - `index.html`
+- `heading.html`
+- `hyperlink.html`
+- `image.html`
+- `list.html`
+- `paragraf.html`
+- `foto.jpg`
 
 ---
 
