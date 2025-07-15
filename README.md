@@ -33,6 +33,20 @@ Setiap folder berisi file-file materi yang terstruktur sesuai topik pembelajaran
 
 </details>
 
+<details>
+  <summary><strong>📁 Folder: pertemuan-3 — Materi: CSS Dasar</strong></summary>
+
+  - `1-inline-css.html`
+  - `2-internal-css.html`
+  - `3-external-css.html`
+  - `4-style.css`
+  - `5-selector-tag.html`
+  - `6-selector-class.html`
+  - `7-selector-id.html`
+  - `8-property.html`
+
+</details>
+
 ---
 
 ## Cara Akses Materi
