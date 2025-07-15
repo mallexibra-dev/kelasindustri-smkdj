@@ -1,0 +1,23 @@
+body {
+  background-color: #e0e0e0;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+p {
+  color: #333333;
+  font-size: 18px;
+}
+
+.highlight {
+  color: orange;
+  font-weight: bold;
+}
+
+#utama {
+  background-color: yellow;
+  padding: 10px;
+}
